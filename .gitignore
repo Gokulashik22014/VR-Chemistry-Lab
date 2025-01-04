@@ -1,0 +1,64 @@
+# Ignore everything in the Library/ and Temp/ folders
+[Ll]ibrary/
+[Tt]emp/
+
+# Ignore build output
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore auto-generated system files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+UserSettings/
+
+# Ignore Unity generated files
+[Oo]bj/
+[Mm]emoryCaptures/
+[Mm]etadata/
+
+# Ignore Asset Store files
+Assets/AssetStoreTools*
+
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore temporary files
+*.bak
+*.swp
+*.tmp
+*.log
+*.dmp
+
+# Ignore VR specific settings (e.g., XR plugins data)
+Assets/XRSettings/
+
+# Ignore platform-specific generated files
+*.apk
+*.ipa
+*.exe
+*.dll
+*.pdb
+
+# Ignore crash reports and log files
+CrashReports/
+*.crash
+
+# Ignore auto-generated lighting data
+[Ll]ightmapSnapshot
+[Ll]ightingData.asset
+
+# Ignore local build artifacts
+*.unitypackage
